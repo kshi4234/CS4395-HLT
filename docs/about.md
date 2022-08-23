@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: jekyll-theme-modernist
 title: About Me
 permalink: /about/
 ---
