@@ -1,5 +1,9 @@
-## Header
+## Welcome to My Website!
 I will be using this site to host my CS4395 projects and assignments relating to NLP
+
+## [About Me](https://github.com/kshi4234/CS4395-HLT/blob/main/docs/about.md)
+## [Contact Me](https://github.com/kshi4234/CS4395-HLT/blob/main/docs/contact.md)
+
 
 ### Assignments
 
