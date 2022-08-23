@@ -1,6 +1,6 @@
 layout: page
 title: "About Me"
-permalink: /about/
+permalink: /CS4395-HLT/about/
 
 ## About Me
 
