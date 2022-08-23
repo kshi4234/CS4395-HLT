@@ -1,6 +1,8 @@
+---
 layout: page
 title: "About Me"
 permalink: /CS4395-HLT/about/
+---
 
 ## About Me
 
