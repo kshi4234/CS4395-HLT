@@ -9,6 +9,6 @@ I will be using this site to host my CS4395 projects and assignments relating to
 
 Assignment 0: [Getting Started](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/assignment%200/Overview%20of%20NLP.pdf)
 
-Assignment 1: [Text Processing with Python](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/assignment%201)[Description]
+Assignment 1: [Text Processing with Python](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/assignment%201) [Description]
 
 ### Projects
