@@ -13,7 +13,9 @@ My program reads in the CSV file contents by line. Then it throws away the heade
 
 The program can be run through terminal by running the command 'python [NAME OF PROGRAM] [RELATIVE PATH TO data.csv]', or by typing 'python' and hitting enter to start a python session, then running '[NAME OF PROGRAM] [RELATIVE PATH TO data.csv]'.
 
-In my opinion, Python is extremely powerful for text processing because of how easy it is to unpack values from an array or tuple. Furthermore, the String class in Python comes with useful methods like .split(), and regex 
+In my opinion, Python is extremely powerful for text processing because of how easy it is to unpack values from an array or tuple. Furthermore, the String class in Python comes with useful methods like .split(), and regex is intuitive to use in Python. However, whenever I am trying to get numbers from processing text I sometimes forget to typecast the string into an integer. Normally it would be easy to catch where this occurs because other languages like Java and C++ have static typing, whereas in Python when I have typing issues I need to go sleuthing. Although this isn't a huge issue, cumulatively the time lost adds up.
+
+For the most part, this project was a review in Python because I am already familiar with text processing and file I/O functionality in Python.
 
 
 [<-- Back](https://kshi4234.github.io/CS4395-HLT/)
