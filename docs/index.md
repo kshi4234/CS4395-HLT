@@ -13,4 +13,8 @@ Assignment 1: [Text Processing with Python](https://github.com/kshi4234/CS4395-H
 
 Assignment 2: [Exploring NLTK](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/assignment%202/Assignment%202.ipynb%20-%20Colaboratory.pdf)
 
+Assignment 3: [Word Guessing Game](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/assignment%203)
+
+Assignment 4: [WordNet](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/assignment%204)
+
 ### Projects
