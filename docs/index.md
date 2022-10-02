@@ -19,4 +19,4 @@ Assignment 4: [WordNet](https://github.com/kshi4234/CS4395-HLT/blob/main/assignm
 
 ### Projects
 
-Project 1: [NGram Model](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Ngrams) [Narrative](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Ngrams/NGram%20Write%20Up.pdf)
+Project 1: [NGram Model](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Ngrams) [[Narrative]](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Ngrams/NGram%20Write%20Up.pdf)
