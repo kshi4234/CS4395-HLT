@@ -1,4 +1,4 @@
-This is Kevin Shi's n-gram model used to predict what language a sequence belongs to.
+### This is Kevin Shi's n-gram model used to predict what language a sequence belongs to.
 
 ------------------------------------------------------------------------------------
 
