@@ -17,6 +17,8 @@ Assignment 3: [Word Guessing Game](https://github.com/kshi4234/CS4395-HLT/tree/m
 
 Assignment 4: [WordNet](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/assignment%204)
 
+Assignment 5: [Sentence Parsing](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/assignment%205)
+
 ### Projects
 
 Project 1: [NGram Model](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Ngrams) [[Narrative]](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Ngrams/NGram%20Write%20Up.pdf)
