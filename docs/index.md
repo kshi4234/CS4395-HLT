@@ -21,7 +21,7 @@ Assignment 5: [Sentence Parsing](https://github.com/kshi4234/CS4395-HLT/tree/mai
 
 Assignment 6: [ACL Paper Summary](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/ACL-Paper-Summary/ACL-Paper-Summary.pdf)
 
-
+Assignment 7: [Author Attribution](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Author%20Attribution/Author%20Attribution.ipynb%20-%20Colaboratory.pdf)
 
 ### Projects
 
