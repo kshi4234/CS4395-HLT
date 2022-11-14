@@ -19,6 +19,10 @@ Assignment 4: [WordNet](https://github.com/kshi4234/CS4395-HLT/blob/main/assignm
 
 Assignment 5: [Sentence Parsing](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/assignment%205)
 
+Assignment 6: [ACL Paper Summary](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/ACL-Paper-Summary/ACL-Paper-Summary.pdf)
+
+
+
 ### Projects
 
 Project 1: [NGram Model](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Ngrams) [[Narrative]](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Ngrams/NGram%20Write%20Up.pdf)
