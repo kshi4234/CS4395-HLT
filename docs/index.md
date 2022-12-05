@@ -23,8 +23,12 @@ Assignment 6: [ACL Paper Summary](https://github.com/kshi4234/CS4395-HLT/blob/ma
 
 Assignment 7: [Author Attribution](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Author%20Attribution/Author%20Attribution.ipynb%20-%20Colaboratory.pdf)
 
+Assignment 8: [Text Classification](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Text%20Classification)
+
 ### Projects
 
 Project 1: [NGram Model](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Ngrams) [[Narrative]](https://github.com/kshi4234/CS4395-HLT/blob/main/assignments/Ngrams/NGram%20Write%20Up.pdf)
 
 Project 2: [Web Crawler w/ Report](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Web%20Crawler)
+
+Project 3: [Chatbot]
