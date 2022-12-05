@@ -31,4 +31,4 @@ Project 1: [NGram Model](https://github.com/kshi4234/CS4395-HLT/tree/main/assign
 
 Project 2: [Web Crawler w/ Report](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Web%20Crawler)
 
-Project 3: [Chatbot]
+Project 3: [Chatbot](https://github.com/kshi4234/CS4395-HLT/tree/main/assignments/Chatbot)
